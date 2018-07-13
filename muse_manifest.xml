@@ -1,0 +1,86 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carmen.com" resolutions="1x" timestamp="1531522943678">
+  <folder name="css">
+    <file name="site_global.css" crc="373709799"/>
+    <file name="index.css" crc="53780858" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u988.php" crc="274716309" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3996005052" ref="index"/>
+    <file name="ship-3493887_1920.jpg" crc="4248025921" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="down-arrow.svg" crc="3874218048" ref="index"/>
+    <file name="down-arrow_poster_u161.png" crc="124403620" ref="index"/>
+    <file name="ytre-u201.png" crc="3833525611" ref="index"/>
+    <file name="lighthouse.svg" crc="30503828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lighthouse_poster_.png" crc="4094678866" ref="index"/>
+    <file name="whatsapp image 2018-07-12 at 82830 pm.jpg" crc="364462703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="whatsapp image 2018-07-13 at 52220 pm (1).jpg" crc="4068417497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-07-13 at 52220 pm.jpg" crc="3990952503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="lifesaver.svg" crc="4155019277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lifesaver_poster_.png" crc="3886026398" ref="index"/>
+    <file name="compass.svg" crc="4171631779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="compass_poster_.png" crc="228618984" ref="index"/>
+    <file name="sailor.svg" crc="3917456081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sailor_poster_.png" crc="3930705701" ref="index"/>
+    <file name="puerto-nuevo.jpg" crc="530809123" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boat.svg" crc="4227883493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boat_poster_.png" crc="122271095" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nuevo.svg" crc="4171364888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nuevo_poster_.png" crc="115624030" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4017062518" seo="true" mt="1531522137907" redirect="true"/>
+</manifest>

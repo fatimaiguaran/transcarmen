@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://carmen.com/index.html</loc>
+    <lastmod>2018-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://carmen.com/images/lighthouse.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/whatsapp%20image%202018-07-12%20at%2082830%20pm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/whatsapp%20image%202018-07-13%20at%2052220%20pm%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/whatsapp%20image%202018-07-13%20at%2052220%20pm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/lifesaver.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/compass.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/sailor.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/boat.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://carmen.com/images/nuevo.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
